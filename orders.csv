@@ -1,0 +1,12 @@
+Order_ID,Total Amount,Discount,Items
+730483,3393.0,man307,"{'Jeans': 3, 'T-shirt': 4, 'Sneakers': 5}"
+412374,562.5,ifs354,{'Jeans': 3}
+992742,1687.5,ifs354,{'Jeans': 9}
+481188,1500,None/Invalid,{'Sneakers': 3}
+248009,637.5,ifs361,{'Jeans': 3}
+188161,1125.0,ifs354,{'Jeans': 6}
+213503,1500.0,ifs354,{'Sneakers': 4}
+133705,562.5,ifs354,{'Jeans': 3}
+572065,562.5,ifs354,{'Jeans': 3}
+749635,1929.5,ifs361,"{'Jeans': 3, 'Sneakers': 2, 'T-shirt': 4}"
+214921,187.5,ifs354,{'Jeans': 1}
